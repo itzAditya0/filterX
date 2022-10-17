@@ -1,0 +1,8 @@
+1. Implementing try-catch for every possible situation
+2. Implementing GUI of this project
+3. Show rows and columns by specifying a range
+4. Handing case in the input
+5. Handle removal of target variable
+6. Implement Undo and Redo with the Database
+7. Emoji's in the print statement
+8. Progress bar in case of large operationss
