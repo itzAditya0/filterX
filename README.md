@@ -42,3 +42,4 @@ The CLI made to preprocess the database and save your **time**:clock1:
 - Implement Undo and Redo for the Database.
 - Implement other preprocessing steps.
 
+#### If you have any questions, just let me know [here.](mailto:itzaditya@icloud.com)
